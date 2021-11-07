@@ -5,9 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Medieval Tavern.unity
+    guid: 4cbf9de474dd386479987ae65886bfa8
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 39dde29ae71230044b6825dfea436b84, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 1a6aad9d42ed759448f4072533f33951, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a5c2e2319ff1fd344abfbb2b522f8c13, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cbe45a362009d4d44b376612a2d60664, type: 2}
